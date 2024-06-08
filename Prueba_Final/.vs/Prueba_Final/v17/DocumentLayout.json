@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|c:\\users\\lechu\\onedrive\\escritorio\\prueba final\\prueba_final\\prueba_final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|solutionrelative:prueba_final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|c:\\users\\lechu\\onedrive\\escritorio\\prueba final\\prueba_final\\prueba_final\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|solutionrelative:prueba_final\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|c:\\users\\lechu\\onedrive\\escritorio\\prueba final\\prueba_final\\prueba_final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|solutionrelative:prueba_final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|c:\\users\\lechu\\onedrive\\escritorio\\prueba final\\prueba_final\\prueba_final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E9FAC7FB-EF8E-425F-810B-7CFBDA29F05A}|Prueba_Final\\Prueba_Final.csproj|solutionrelative:prueba_final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Prueba_Final\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\ConexionBD.cs",
+              "RelativeToolTip": "Prueba_Final\\ConexionBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T01:34:16.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\App.config",
+              "RelativeDocumentMoniker": "Prueba_Final\\App.config",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\App.config",
+              "RelativeToolTip": "Prueba_Final\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-08T01:32:39.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Prueba_Final\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\MainWindow.xaml",
+              "RelativeToolTip": "Prueba_Final\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T01:31:40.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Prueba_Final\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\prueba final\\Prueba_Final\\Prueba_Final\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Prueba_Final\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T01:31:38.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
